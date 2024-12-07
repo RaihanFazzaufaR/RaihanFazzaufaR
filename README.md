@@ -11,8 +11,12 @@
 
 <div align="center">
   <img height="200" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVybGk2bXJ4cjVmY3AyeGN4ZzlzOXNna213cW52d2NrNWZodGVwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.gif"  />
+  <img height="200" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlsNnZvbXpra2ZvNmx4a2o2ZzN4dmZvMWU3ajlzb3U5dTFqaTU0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif"  />
+</div>
 
-  <div align="center">
+###
+
+<div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -41,9 +45,6 @@
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
   </div>
-  
-  <img height="200" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlsNnZvbXpra2ZvNmx4a2o2ZzN4dmZvMWU3ajlzb3U5dTFqaTU0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif"  />
-</div>
 
 ###
 
