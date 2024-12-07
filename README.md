@@ -36,8 +36,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
   </div>
 
-###
-
   <div align="center">
     <a href="www.linkedin.com/in/raihan-fazzaufa-4740a1251" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
