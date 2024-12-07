@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raihan and I'm still a college student.</h2>
+<h2 align="center">Hi 👋! My name is Raihan and I'm still a college student.</h2>
 
 ###
 
@@ -45,6 +45,7 @@
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVybGk2bXJ4cjVmY3AyeGN4ZzlzOXNna213cW52d2NrNWZodGVwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vBTxCPUwfC6ddBsTbs/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlsNnZvbXpra2ZvNmx4a2o2ZzN4dmZvMWU3ajlzb3U5dTFqaTU0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wr7oA0rSjnWuiLJOY5/giphy.gif"  />
 </div>
 
 ###
