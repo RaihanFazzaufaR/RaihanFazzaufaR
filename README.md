@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Raihan an Undergraduate college student
+<h2 align="center">Hi 👋! My name is Raihan an undergraduate college student
 <!-- <h3 align="center">☁️Want to study LLM during the semester break☁️</h3> -->
 
 ###
